@@ -74,7 +74,7 @@ sudo pacman -Sy
 
 sudo cp confs/pacman.conf /etc/pacman.conf
 
-cp confs/config ~/.config/terminator/config
+sudo cp -r confs/terminator ~/.config/
 
 echo "[+[+[Done]+]+]"
 
