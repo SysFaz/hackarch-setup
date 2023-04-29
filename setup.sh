@@ -74,8 +74,6 @@ sudo pacman -Sy
 
 sudo cp confs/pacman.conf /etc/pacman.conf
 
-sudo cp -r confs/terminator ~/.config/
-
 echo "[+[+[Done]+]+]"
 
 echo "Type: sudo pacman -Sy"
